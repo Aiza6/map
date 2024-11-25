@@ -1,0 +1,169 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2024-11-06T17:56:01Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/27210753",
+        "access": "yes",
+        "addr:city": "Poing",
+        "addr:housenumber": "7",
+        "addr:postcode": "85586",
+        "addr:street": "Friedensstraße",
+        "amenity": "parking",
+        "building": "parking",
+        "building:levels": "3",
+        "capacity": "407",
+        "capacity:disabled": "yes",
+        "capacity:parent": "yes",
+        "capacity:women": "yes",
+        "fee": "no",
+        "lit": "yes",
+        "park_ride": "yes",
+        "parking": "multi-storey",
+        "surface": "paved"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.8099173,
+              48.1719024
+            ],
+            [
+              11.8100194,
+              48.1717222
+            ],
+            [
+              11.8100738,
+              48.1716263
+            ],
+            [
+              11.8100809,
+              48.1716138
+            ],
+            [
+              11.8108718,
+              48.1718132
+            ],
+            [
+              11.8109518,
+              48.1718334
+            ],
+            [
+              11.8107978,
+              48.1721049
+            ],
+            [
+              11.8107881,
+              48.1721221
+            ],
+            [
+              11.8103697,
+              48.1720165
+            ],
+            [
+              11.8099797,
+              48.1719182
+            ],
+            [
+              11.8099173,
+              48.1719024
+            ]
+          ]
+        ]
+      },
+      "id": "way/27210753"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/44365314",
+        "access": "yes",
+        "amenity": "parking",
+        "capacity": "82",
+        "capacity:disabled": "3",
+        "fee": "no",
+        "park_ride": "yes",
+        "parking": "surface",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.782096,
+              48.1648238
+            ],
+            [
+              11.7822181,
+              48.1648426
+            ],
+            [
+              11.7823059,
+              48.1648705
+            ],
+            [
+              11.7822153,
+              48.1650986
+            ],
+            [
+              11.782727,
+              48.1652181
+            ],
+            [
+              11.7824671,
+              48.1657951
+            ],
+            [
+              11.7820767,
+              48.165729
+            ],
+            [
+              11.7818501,
+              48.1656596
+            ],
+            [
+              11.7818478,
+              48.1655569
+            ],
+            [
+              11.7819204,
+              48.1655402
+            ],
+            [
+              11.7819855,
+              48.1655169
+            ],
+            [
+              11.781998,
+              48.1654551
+            ],
+            [
+              11.7819273,
+              48.1654735
+            ],
+            [
+              11.7819093,
+              48.1654084
+            ],
+            [
+              11.7818744,
+              48.165323
+            ],
+            [
+              11.782096,
+              48.1648238
+            ]
+          ]
+        ]
+      },
+      "id": "way/44365314"
+    }
+  ]
+}

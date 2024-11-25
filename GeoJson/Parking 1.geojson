@@ -1,0 +1,118 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2024-11-06T17:17:00Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/4688835",
+        "access": "yes",
+        "amenity": "parking",
+        "capacity": "53",
+        "capacity:disabled": "3",
+        "fee": "no",
+        "park_ride": "yes",
+        "parking": "surface",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.7871451,
+              48.0996301
+            ],
+            [
+              11.78733,
+              48.0999756
+            ],
+            [
+              11.7872904,
+              48.0999862
+            ],
+            [
+              11.7873108,
+              48.100024
+            ],
+            [
+              11.7869122,
+              48.1001279
+            ],
+            [
+              11.786894,
+              48.1001002
+            ],
+            [
+              11.7869078,
+              48.09968
+            ],
+            [
+              11.7871451,
+              48.0996301
+            ]
+          ]
+        ]
+      },
+      "id": "way/4688835"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/49801394",
+        "access": "customers",
+        "amenity": "parking",
+        "capacity": "31",
+        "capacity:disabled": "no",
+        "fee": "no",
+        "parking": "surface"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.7751671,
+              48.1065411
+            ],
+            [
+              11.7751963,
+              48.1065115
+            ],
+            [
+              11.7752859,
+              48.1064145
+            ],
+            [
+              11.7755317,
+              48.1065168
+            ],
+            [
+              11.7757766,
+              48.1066421
+            ],
+            [
+              11.7756352,
+              48.1067693
+            ],
+            [
+              11.7753884,
+              48.1066424
+            ],
+            [
+              11.7751935,
+              48.1065527
+            ],
+            [
+              11.7751671,
+              48.1065411
+            ]
+          ]
+        ]
+      },
+      "id": "way/49801394"
+    }
+  ]
+}

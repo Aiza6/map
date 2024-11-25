@@ -1,0 +1,87 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2024-11-06T17:44:46Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/77798953",
+        "access": "yes",
+        "amenity": "parking",
+        "capacity": "100",
+        "capacity:disabled": "2",
+        "capacity:women": "3",
+        "fee": "no",
+        "park_ride": "yes",
+        "parking": "surface"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.7303564,
+              48.1510601
+            ],
+            [
+              11.7302874,
+              48.151194
+            ],
+            [
+              11.7280293,
+              48.1506757
+            ],
+            [
+              11.7280984,
+              48.1505417
+            ],
+            [
+              11.7303564,
+              48.1510601
+            ]
+          ]
+        ]
+      },
+      "id": "way/77798953"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1301738935",
+        "amenity": "parking",
+        "capacity": "40",
+        "parking": "street_side"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5516653,
+              48.829301
+            ],
+            [
+              12.5516542,
+              48.8292523
+            ],
+            [
+              12.5528973,
+              48.829129
+            ],
+            [
+              12.5529084,
+              48.8291775
+            ],
+            [
+              12.5516653,
+              48.829301
+            ]
+          ]
+        ]
+      },
+      "id": "way/1301738935"
+    }
+  ]
+}
